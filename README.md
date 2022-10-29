@@ -8,3 +8,5 @@
 
 ### If all else fails, remember, it;
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+
+<a rel="me" href="https://eegle.cloud/@aimee">Mastodon</a>
